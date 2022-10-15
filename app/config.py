@@ -1,4 +1,4 @@
-from turtle import st
+#from turtle import st
 from pydantic import BaseSettings
 
 from app import database
