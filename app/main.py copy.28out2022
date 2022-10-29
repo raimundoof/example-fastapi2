@@ -1,7 +1,7 @@
 #Testes com FastAPI
 
 from ctypes.wintypes import HACCEL
-#import imp
+import imp
 from multiprocessing import synchronize
 from poplib import CR
 import re
